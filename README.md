@@ -15,10 +15,7 @@ The application supports the following operations:
 4. **Delete a Task**: If a task is no longer relevant or if it was created by mistake, you can remove it from the list.
 
 ## Getting Started
-To get started with this application, clone the repository and run the main Python file. Detailed instructions on how to use the application are provided in the user guide.
+To get started with this application, clone the repository and run the main Python file.
 
 ## Contributing
-Contributions to this project are welcome. Please read the contributing guide for more information.
-
-## License
-This project is licensed under the terms of the MIT license.
+Contributions to this project are welcome.
